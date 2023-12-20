@@ -16,7 +16,7 @@
 
 #include "lexbor/core/shs.h"
 #include "lexbor/css/at_rule/const.h"
-
+#include "lexbor/css/at_rule/state.h"
 
 static const lxb_css_entry_data_t lxb_css_at_rule_data[LXB_CSS_AT_RULE__LAST_ENTRY] = 
 {

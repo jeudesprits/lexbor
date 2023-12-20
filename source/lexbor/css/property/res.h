@@ -16,7 +16,7 @@
 
 #include "lexbor/core/shs.h"
 #include "lexbor/css/property/const.h"
-
+#include "lexbor/css/property/state.h"
 
 static const lxb_css_entry_data_t lxb_css_property_data[LXB_CSS_PROPERTY__LAST_ENTRY] = 
 {

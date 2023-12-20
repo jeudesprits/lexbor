@@ -16,7 +16,7 @@
 
 #include "lexbor/core/shs.h"
 #include "lexbor/css/selectors/pseudo_const.h"
-
+#include "lexbor/css/selectors/pseudo_state.h"
 
 static const lxb_css_selectors_pseudo_data_t lxb_css_selectors_pseudo_data_pseudo_class[LXB_CSS_SELECTOR_PSEUDO_CLASS__LAST_ENTRY] = 
 {
